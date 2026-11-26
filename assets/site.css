@@ -269,6 +269,7 @@ p { margin: 0 0 1em; }
 }
 .intro-name { font-size: 1.125rem; font-weight: 560; color: var(--text); }
 .intro-role { font-size: .9375rem; color: var(--muted); }
+.intro-role .sep { margin-inline: .35em; color: var(--line-2); }
 
 h1 {
   margin: 0 0 24px;
