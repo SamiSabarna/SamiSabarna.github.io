@@ -7,12 +7,12 @@
 
   const META = {
     en: {
-      title: 'Sami Sabarna | Intelligent Automation Engineer',
-      desc: 'Sami Sabarna is an Intelligent Automation Engineer in Amman, Jordan, working across RPA, BPM, low-code and AI agents: from a manual process to software that runs by itself.'
+      title: 'Sami Sabarna | Appian Developer & Intelligent Automation Engineer',
+      desc: 'Sami Sabarna is an Appian developer and intelligent automation engineer in Amman, Jordan, building Appian, Blue Prism and AI solutions for financial and government organisations.'
     },
     ar: {
-      title: 'سامي صبارنة | مهندس أتمتة ذكية',
-      desc: 'سامي صبارنة، مهندس أتمتة ذكية في عمّان، الأردن. RPA وBPM والمنصات منخفضة الكود ووكلاء الذكاء الاصطناعي: من إجراء يدوي إلى نظام يعمل وحده.'
+      title: 'سامي صبارنة | مطوّر Appian ومهندس أتمتة ذكية',
+      desc: 'سامي صبارنة، مطوّر Appian ومهندس أتمتة ذكية في عمّان، الأردن، يبني حلول Appian وBlue Prism والذكاء الاصطناعي لمؤسسات مالية وحكومية.'
     }
   };
   const metaDesc = document.querySelector('meta[name="description"]');
